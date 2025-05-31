@@ -40,7 +40,7 @@ const ContactSection = () => {
                 />
                 <div>
                   <p className="text-white font-semibold">г. Симферополь</p>
-                  <p className="text-gray-300">ул. Желе Дерюгиной, 13Б</p>
+                  <p className="text-gray-300">ул. Жени Дерюгиной, 13Б</p>
                   <p className="text-gray-400 text-sm">Удобная парковка</p>
                 </div>
               </div>
@@ -75,7 +75,7 @@ const ContactSection = () => {
                 </h4>
                 <p className="text-gray-300 text-sm mb-3">
                   От центра города двигайтесь по ул. Киевская в сторону
-                  аэропорта, поверните на ул. Желе Дерюгиной. Наш сервис
+                  аэропорта, поверните на ул. Жени Дерюгиной. Наш сервис
                   находится в доме 13Б.
                 </p>
                 <h4 className="text-white font-semibold mb-3">
