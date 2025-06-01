@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const HeroSection = () => {
   return (
-    <section className="bg-gradient-to-br from-gray-800 to-gray-900 text-white py-20 px-4">
+    <section className="hero-gearbox-bg text-white py-20 px-4">
       <div className="max-w-6xl mx-auto text-center">
         <h1 className="text-5xl font-bold mb-6 leading-tight">
           <span className="text-orange-500">Gearbox Shop</span>
