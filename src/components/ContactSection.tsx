@@ -17,9 +17,14 @@ const ContactSection = () => {
           <Card className="bg-gray-700 border-gray-600">
             <CardHeader>
               <CardTitle className="text-white text-2xl flex items-center">
-                <Icon name="User" size={24} className="mr-3 text-orange-500" />
-                Мастер Влад
+                <Icon
+                  name="Wrench"
+                  size={24}
+                  className="mr-3 text-orange-500"
+                />
+                Gearbox Shop
               </CardTitle>
+              <p className="text-gray-400 mt-2">Мастер Влад</p>
             </CardHeader>
             <CardContent className="space-y-6">
               <div className="flex items-center">

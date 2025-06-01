@@ -6,9 +6,9 @@ const HeroSection = () => {
     <section className="bg-gradient-to-br from-gray-800 to-gray-900 text-white py-20 px-4">
       <div className="max-w-6xl mx-auto text-center">
         <h1 className="text-5xl font-bold mb-6 leading-tight">
-          Профессиональный ремонт
+          <span className="text-orange-500">Gearbox Shop</span>
           <br />
-          <span className="text-orange-500">автоматических трансмиссий</span>
+          Профессиональный ремонт автоматических трансмиссий
         </h1>
         <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
           Специализируемся на ремонте АКПП, вариаторов CVT, коробок DSG и
