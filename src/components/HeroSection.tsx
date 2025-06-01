@@ -34,7 +34,7 @@ const HeroSection = () => {
         </div>
         <div className="mt-12 text-center">
           <p className="text-gray-400 text-sm mb-4">
-            Доверяют нам более 1000 клиентов
+            Доверяют нам более 100 клиентов
           </p>
           <div className="flex justify-center items-center space-x-8 opacity-60">
             <div className="text-gray-500">⭐⭐⭐⭐⭐</div>
